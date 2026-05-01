@@ -118,14 +118,10 @@ The goal is to transform raw transactional data into **actionable business insig
 ---
 
 ## 📷 Visualizations
-
-(Add your images in `/images` folder and link them here)
-
-```markdown
-![Sales by Category](images/sales_by_category.png)
-![Profit Analysis](images/profit_by_category.png)
-![Monthly Sales Trend](images/monthly_sales.png)
-```
+# Sales Analysis
+<img width="1615" height="745" alt="image" src="https://github.com/user-attachments/assets/7bcf36a9-9a35-4e0d-91f3-9c44a16bb817" />
+# Profit Analysis
+<img width="440" height="136" alt="image" src="https://github.com/user-attachments/assets/46f85340-9c47-45e7-a6b7-c98764f8bd32" />
 
 ---
 
