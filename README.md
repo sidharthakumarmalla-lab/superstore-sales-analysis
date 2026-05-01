@@ -121,7 +121,9 @@ The goal is to transform raw transactional data into **actionable business insig
 # Sales Analysis
 <img width="1615" height="745" alt="image" src="https://github.com/user-attachments/assets/7bcf36a9-9a35-4e0d-91f3-9c44a16bb817" />
 # Profit Analysis
-<img width="440" height="136" alt="image" src="https://github.com/user-attachments/assets/46f85340-9c47-45e7-a6b7-c98764f8bd32" />
+<img width="1722" height="787" alt="image" src="https://github.com/user-attachments/assets/ab281ceb-f967-4d57-9779-97be3ef8dced" />
+# Quantity Analysis
+<img width="1783" height="827" alt="image" src="https://github.com/user-attachments/assets/44bbf53a-9638-4817-aac8-7f50c6acd152" />
 
 ---
 
