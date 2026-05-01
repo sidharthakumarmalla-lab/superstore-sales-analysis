@@ -120,6 +120,7 @@ The goal is to transform raw transactional data into **actionable business insig
 ## 📷 Visualizations
 # Sales Analysis
 <img width="1615" height="745" alt="image" src="https://github.com/user-attachments/assets/7bcf36a9-9a35-4e0d-91f3-9c44a16bb817" />
+
 # Profit Analysis
 <img width="1722" height="787" alt="image" src="https://github.com/user-attachments/assets/ab281ceb-f967-4d57-9779-97be3ef8dced" />
 # Quantity Analysis
