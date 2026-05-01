@@ -123,6 +123,7 @@ The goal is to transform raw transactional data into **actionable business insig
 
 # Profit Analysis
 <img width="1722" height="787" alt="image" src="https://github.com/user-attachments/assets/ab281ceb-f967-4d57-9779-97be3ef8dced" />
+
 # Quantity Analysis
 <img width="1783" height="827" alt="image" src="https://github.com/user-attachments/assets/44bbf53a-9638-4817-aac8-7f50c6acd152" />
 
